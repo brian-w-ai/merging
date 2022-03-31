@@ -1,16 +1,14 @@
 //
-//  PostCell.swift
+//  NewCell.swift
 //  AutoLayout
 //
-//  Created by Brian Ai on 2/17/22.
+//  Created by Brian Ai on 3/31/22.
 //
 
 import UIKit
 
-class PostCell: UITableViewCell {
+class NewCell: UITableViewCell {
 
-    @IBOutlet weak var test: UIImageView!
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
