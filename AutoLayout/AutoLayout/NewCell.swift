@@ -1,16 +1,14 @@
 //
-//  PostCell.swift
+//  NewCell.swift
 //  AutoLayout
 //
-//  Created by Brian Ai on 2/17/22.
+//  Created by Brian Ai on 3/31/22.
 //
 
 import UIKit
 
-class PostCell: UITableViewCell {
+class NewCell: UITableViewCell {
 
-    @IBOutlet weak var test: UIImageView!
-    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
@@ -19,9 +17,6 @@ class PostCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        let hello = "hello world!"
-        print(hello)
-        
         // Configure the view for the selected state
     }
 

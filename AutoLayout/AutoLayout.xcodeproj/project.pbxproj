@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4348505D27F62C940058BE75 /* NewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4348505C27F62C940058BE75 /* NewCell.swift */; };
 		43BA713A27BF0DD5000E2D92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA713927BF0DD5000E2D92 /* AppDelegate.swift */; };
 		43BA713C27BF0DD5000E2D92 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA713B27BF0DD5000E2D92 /* SceneDelegate.swift */; };
 		43BA713E27BF0DD5000E2D92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA713D27BF0DD5000E2D92 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4348505C27F62C940058BE75 /* NewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCell.swift; sourceTree = "<group>"; };
 		43BA713627BF0DD5000E2D92 /* AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43BA713927BF0DD5000E2D92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43BA713B27BF0DD5000E2D92 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				43BA713B27BF0DD5000E2D92 /* SceneDelegate.swift */,
 				43BA713D27BF0DD5000E2D92 /* ViewController.swift */,
 				43BA713F27BF0DD5000E2D92 /* Main.storyboard */,
+				4348505C27F62C940058BE75 /* NewCell.swift */,
 				43BA716F27BF18AB000E2D92 /* PostCell.swift */,
 				43BA716B27BF10FA000E2D92 /* TableViewController.swift */,
 				43BA714227BF0DD6000E2D92 /* Assets.xcassets */,
@@ -268,6 +271,7 @@
 				43BA713A27BF0DD5000E2D92 /* AppDelegate.swift in Sources */,
 				43BA713C27BF0DD5000E2D92 /* SceneDelegate.swift in Sources */,
 				43BA716C27BF10FA000E2D92 /* TableViewController.swift in Sources */,
+				4348505D27F62C940058BE75 /* NewCell.swift in Sources */,
 				43BA717027BF18AB000E2D92 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

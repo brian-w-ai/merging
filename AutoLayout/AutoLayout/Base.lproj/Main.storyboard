@@ -141,6 +141,9 @@
                                                 </imageView>
                                             </subviews>
                                         </tableViewCellContentView>
+                                        <connections>
+                                            <outlet property="test" destination="YPM-5L-J8L" id="v3f-dO-AfI"/>
+                                        </connections>
                                     </tableViewCell>
                                 </prototypes>
                             </tableView>
