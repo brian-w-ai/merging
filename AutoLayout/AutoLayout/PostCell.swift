@@ -19,6 +19,9 @@ class PostCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
+        let hello = "hello world!"
+        print(hello)
+        
         // Configure the view for the selected state
     }
 
