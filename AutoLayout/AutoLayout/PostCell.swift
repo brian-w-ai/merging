@@ -25,6 +25,9 @@ class PostCell: UITableViewCell {
         let hello2 = "Hello again!"
         print(hello2)
         
+        let hello3 = "Hello again again!"
+        print(hello3)
+        
         // Configure the view for the selected state
     }
 
